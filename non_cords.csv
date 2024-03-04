@@ -1,0 +1,765 @@
+,glottocode,name,isocodes,latitude,longitude
+3,aari1240,Aariya,aay,0.0,0.0
+13,abai1241,Abai Tubu-Abai Sembuak,0,0.0,0.0
+55,abua1245,Abu' Arapesh,aah,0.0,0.0
+77,achi1258,"Achi', Cubulco",acc,0.0,0.0
+109,adha1238,Adhari,0,0.0,0.0
+132,adur1234,Adurgari,0,0.0,0.0
+135,adze1241,Adzera (Retired),azr,0.0,0.0
+150,afgh1240,Afghanistan Gorbat,0,0.0,0.0
+151,afgh1239,Afghan Sign Language,afg,0.0,0.0
+161,afud1235,Afudu,0,0.0,0.0
+174,agbi1234,Agbirigba,0,0.0,0.0
+183,aghu1256,Aghu Tharnggalu (Retired),gtu,0.0,0.0
+193,agta1234,Agta-Pahanan,apf,0.0,0.0
+212,ahea1240,Ahe,ahe,0.0,0.0
+232,aiku1240,Aiku,mzf,0.0,0.0
+298,akeu1235,Akeu,aeu,0.0,0.0
+309,akka1240,Akkadian,akk,0.0,0.0
+349,alag1249,Alaguilac,0,0.0,0.0
+367,alba1271,Albanian Sign Language,sqk,0.0,0.0
+395,alip1234,Alipur Sign Language,0,0.0,0.0
+411,alsa1242,Al-Sayyid Bedouin Sign Language,syy,0.0,0.0
+443,amam1246,Amam,0,0.0,0.0
+444,amam1247,Amami O Shima Sign Language,0,0.0,0.0
+451,amap1241,Amapá Creole,amd,0.0,0.0
+471,ambe1246,Ambermo,0,0.0,0.0
+487,amer1256,Amerax,aex,0.0,0.0
+488,amer1255,American Indian Pidgin English,0,0.0,0.0
+496,amik1238,Amikoana,akn,0.0,0.0
+501,ammo1234,Ammonite,qgg,0.0,0.0
+505,amor1239,Amorite,0,0.0,0.0
+508,amot1239,Amotomanco,0,0.0,0.0
+542,anau1243,Anauyá,0,0.0,0.0
+548,anci1248,Ancient Ligurian,0,0.0,0.0
+549,anci1245,Ancient North Arabian,xna,0.0,0.0
+556,anda1287,Andalusian Arabic,xaa,0.0,0.0
+583,anga1316,Angaité,aqt,0.0,0.0
+588,anga1315,Angami Naga Sign Language,0,0.0,0.0
+590,angg1238,Anggamuthi,0,0.0,0.0
+606,angu1242,Anguthimri,awg,0.0,0.0
+672,apal1237,Apalachee,xap,0.0,0.0
+693,apot1235,Apoto,0,0.0,0.0
+699,apul1236,Apulia-Calabrian Greek,0,0.0,0.0
+707,arac1235,Aracaju,0,0.0,0.0
+709,araf1245,Arafundi-Enga Pidgin,0,0.0,0.0
+712,arak1256,Arakanese,mhv,0.0,0.0
+716,arak1254,Arakwal,rkw,0.0,0.0
+723,aran1265,Aranama,0,0.0,0.0
+748,east2303,Archaic Finnish Swedish,0,0.0,0.0
+749,gutn1238,Archaic Gutnish,0,0.0,0.0
+750,arch1246,Archaic Norrlandic,0,0.0,0.0
+814,arub1238,Aruba,0,0.0,0.0
+821,arus1242,Arusha,0,0.0,0.0
+904,athi1234,Athima,0,0.0,0.0
+928,atta1243,Attapady Kurumba,pkr,0.0,0.0
+932,atue1238,Atuence,atf,0.0,0.0
+961,auve1240,Auvergnat,auv,0.0,0.0
+986,avok1244,Avok,0,0.0,0.0
+1086,baca1245,Bacama-Yimburu,0,0.0,0.0
+1091,bact1239,Bactrian,xbc,0.0,0.0
+1110,baen1237,Baenan,0,0.0,0.0
+1145,bagu1249,Bagua,0,0.0,0.0
+1157,baha1262,Bahau River Kenyah,bwv,0.0,0.0
+1178,baim1246,Bai-Maclay,0,0.0,0.0
+1226,baku1265,Bakung Kenyah,boc,0.0,0.0
+1326,bana1306,Banawá,bnh,0.0,0.0
+1403,bant1298,Bantang,0,0.0,0.0
+1408,bant1293,Bantayanon,bfx,0.0,0.0
+1504,barr1252,Barranbinya,0,0.0,0.0
+1544,basq1252,Basque-Amerindian Pidgin,0,0.0,0.0
+1557,basu1243,Basum,0,0.0,0.0
+1618,baux1234,Bauxite Pidgin,0,0.0,0.0
+1630,bayb1234,Baybayanon,bvy,0.0,0.0
+1707,belg1241,Belgian Sign Language,bvs,0.0,0.0
+1715,bell1264,Belle-Isle Pidgin,0,0.0,0.0
+1716,beln1234,Belneng,0,0.0,0.0
+1719,belu1239,Belueli,0,0.0,0.0
+1750,beng1290,Bengkulu,bke,0.0,0.0
+1867,biag1234,Biage,bdf,0.0,0.0
+1885,bida1238,Bidai,0,0.0,0.0
+1952,bina1274,Binahari-Ma,0,0.0,0.0
+1960,bind1234,Bindal-Cunningham,0,0.0,0.0
+1961,bind1235,Bindal-Gorton,0,0.0,0.0
+1962,bind1236,Bindal-Mount Elliot,0,0.0,0.0
+2011,bisu1247,Bisu (Retired),bii,0.0,0.0
+2116,bolg1250,Bolgarian,xbo,0.0,0.0
+2161,bona1255,Bonari,0,0.0,0.0
+2185,boni1239,Bonin English Pidgin,0,0.0,0.0
+2213,borg1236,Borgarmalet,0,0.0,0.0
+2290,brib1244,Bribri Sign Language,0,0.0,0.0
+2294,brok1252,Broken Oghibbeway,0,0.0,0.0
+2295,brok1250,Broken Slavey,0,0.0,0.0
+2304,brun1247,Brunca Sign Language,0,0.0,0.0
+2347,buga1251,Bugan (Retired),bgh,0.0,0.0
+2416,buma1247,Bumang,bvp,0.0,0.0
+2438,bung1264,Bunganditj,xbg,0.0,0.0
+2465,bura1295,Bura Sign Language,0,0.0,0.0
+2473,burk1234,Burkina Faso Sign Language,0,0.0,0.0
+2474,burm1262,Burma Pyu,0,0.0,0.0
+2489,buru1323,Burundi Pidgin French,0,0.0,0.0
+2517,butl1235,Butler English,0,0.0,0.0
+2524,buxi1237,Buxinhua,bxt,0.0,0.0
+2597,calc1235,Calchaqui,0,0.0,0.0
+2602,calo1236,Caló,rmq,0.0,0.0
+2603,calu1239,Calusa,0,0.0,0.0
+2612,camb1244,Cambodian Sign Language,0,0.0,0.0
+2629,camu1235,Camunic,xcc,0.0,0.0
+2657,cari1274,Carian,xcr,0.0,0.0
+2669,caru1240,Carútana,cru,0.0,0.0
+2675,casp1241,Caspian and eastern Persia Gypsy,0,0.0,0.0
+2676,cast1245,Castelmezzano,0,0.0,0.0
+2684,catu1242,Catuquinaru-Bach,0,0.0,0.0
+2686,cauh1234,Cauho,0,0.0,0.0
+2704,celt1247,Celtiberian,xce,0.0,0.0
+2706,cenn1238,Cen,cen,0.0,0.0
+2731,cent2292,Central Bontoc,lbk,0.0,0.0
+2736,cent2314,Central Chong,0,0.0,0.0
+2765,cent2300,Central Ju,0,0.0,0.0
+2827,cent2304,Central-Southern Persian Gypsy,0,0.0,0.0
+2832,cent2319,Central Taurus Sign Language,0,0.0,0.0
+2862,chac1253,Chacha,0,0.0,0.0
+2878,chai1254,Chairel,0,0.0,0.0
+2881,chak1275,Chakato,0,0.0,0.0
+2944,chat1269,Chatino Sign Language,0,0.0,0.0
+2972,chep1243,Chepya,ycp,0.0,0.0
+2988,chho1235,Chholo,0,0.0,0.0
+3023,chim1310,Chimakum,xch,0.0,0.0
+3038,kjac1234,Chinese Pidgin Russian,0,0.0,0.0
+3061,chir1296,Chiriqui Sign Languages,0,0.0,0.0
+3078,chit1285,Chittagonian (Retired),cit,0.0,0.0
+3094,chol1283,Cholti,0,0.0,0.0
+3095,chol1285,"Chol, Tila",cti,0.0,0.0
+3118,chuj1251,"Chuj, Ixtatán",cnm,0.0,0.0
+3125,chum1264,Chumash,chs,0.0,0.0
+3142,chuv1256,Chuvantsy,xcv,0.0,0.0
+3166,cisa1237,Cisalpine Gaulish,xcg,0.0,0.0
+3174,clas1249,Classical Armenian,xcl,0.0,0.0
+3179,clas1254,Classical Tibetan,xct,0.0,0.0
+3218,coli1235,Colima,0,0.0,0.0
+3237,conc1237,Concho,0,0.0,0.0
+3249,copa1238,Copallen,0,0.0,0.0
+3262,cosa1234,Cosao,0,0.0,0.0
+3300,cuev1238,Cueva,0,0.0,0.0
+3309,cune1239,Cuneiform Luwian,xlu,0.0,0.0
+3318,cusa1237,Cusabo,0,0.0,0.0
+3320,tait1247,Cushitic Taita,0,0.0,0.0
+3330,cypr1249,Cypriot Greek,0,0.0,0.0
+3341,daat1234,Daats'iin,dtn,0.0,0.0
+3351,daci1234,Dacian,xdc,0.0,0.0
+3402,dale1238,Dalecarlian,qer,0.0,0.0
+3413,dama1268,Damakawa,dam,0.0,0.0
+3417,dama1262,Dama (Sierra Leone),0,0.0,0.0
+3469,dara1255,Darang Deng,dat,0.0,0.0
+3522,daya1245,Dayao Yi,yio,0.0,0.0
+3550,dege1245,Degere,0,0.0,0.0
+3682,dima1246,Dima-Bottego,0,0.0,0.0
+3710,diti1235,Ditidaht,dtd,0.0,0.0
+3856,doty1234,Dotyali,dty,0.0,0.0
+3908,dume1236,Dume,0,0.0,0.0
+3952,duvl1238,Duvle-Wano-Pidgin,0,0.0,0.0
+3992,earl1245,Early East African Pidgin Arabic,0,0.0,0.0
+4014,east2776,Eastern Angkuic,0,0.0,0.0
+4038,east2695,Eastern Durango Nahuatl,azd,0.0,0.0
+4073,east2779,Eastern Khumi Chin,cek,0.0,0.0
+4109,east2773,Eastern Newari,0,0.0,0.0
+4129,east2694,Eastern Subanen,sfe,0.0,0.0
+4204,ebla1238,Eblaite,xeb,0.0,0.0
+4229,edom1234,Edomite,xdm,0.0,0.0
+4232,efat1235,Efatese,0,0.0,0.0
+4245,egbu1235,Egbuta,0,0.0,0.0
+4312,elym1237,Elymian,xly,0.0,0.0
+4353,enga1253,Enga Sign Language,0,0.0,0.0
+4360,enim1238,Enim,eni,0.0,0.0
+4370,envu1234,Envuelto,0,0.0,0.0
+4380,epig1241,Epigraphic Mayan,emy,0.0,0.0
+4383,erav1242,Eravallan,era,0.0,0.0
+4400,erro1240,Erromintxela,emx,0.0,0.0
+4417,eska1234,Eskayan,esy,0.0,0.0
+4441,eteo1236,Eteocretan,ecr,0.0,0.0
+4442,eteo1240,Eteocypriot,ecy,0.0,0.0
+4456,euro1250,Europanto,eur,0.0,0.0
+4467,ewon1240,Ewondo Populaire,0,0.0,0.0
+4469,extr1248,Extreme North Cameroon Sign Language,0,0.0,0.0
+4483,faet1240,Faeto and Celle San Vito Francoprovencal,0,0.0,0.0
+4496,fala1245,Falam Chin (Retired),flm,0.0,0.0
+4502,fali1291,Faliscan,xfa,0.0,0.0
+4522,fnqi1234,Far North Queensland Indigenous Sign Language,0,0.0,0.0
+4536,fayj1234,Fayjatases,0,0.0,0.0
+4570,fioo1234,Fio,0,0.0,0.0
+4581,flec1235,Flecheiros,0,0.0,0.0
+4591,foia1236,Foia Foia,ffi,0.0,0.0
+4619,fran1267,Francais Tirailleur,0,0.0,0.0
+4711,gala1252,Galatian,xga,0.0,0.0
+4739,gamb1259,Gambian Sign Language,0,0.0,0.0
+4743,game1240,Gamella,0,0.0,0.0
+4761,gana1278,Ganai,unn,0.0,0.0
+4779,gang1272,Gangou,0,0.0,0.0
+4803,gard1245,Gardiol,0,0.0,0.0
+4818,garr1261,Garreh-Ajuran,ggh,0.0,0.0
+4823,gasc1241,Gascon (Retired),gsc,0.0,0.0
+4937,gema1236,Geman Deng,gen,0.0,0.0
+4950,geor1254,Georgian Sign Language,0,0.0,0.0
+4974,ghan1245,Ghandruk Sign Language,gds,0.0,0.0
+4976,ghar1240,Ghardaia Sign Language,0,0.0,0.0
+5053,giya1234,Giya,0,0.0,0.0
+5118,gooa1234,Goo,0,0.0,0.0
+5195,guac1240,Guachipas,0,0.0,0.0
+5198,guai1246,Guaicaro,0,0.0,0.0
+5202,gual1239,Guale,0,0.0,0.0
+5242,gugu1257,Gugu Mini,ggm,0.0,0.0
+5258,guin1260,Guinea-Bissau Sign Language,0,0.0,0.0
+5282,gulf1242,Gulf Coast French,0,0.0,0.0
+5287,gulu1236,Gulunggulu,0,0.0,0.0
+5325,guri1249,Gurindji Kriol,gjr,0.0,0.0
+5343,guti1235,Gutian,0,0.0,0.0
+5352,guya1250,Guyambal,0,0.0,0.0
+5353,guya1253,Guyana Sign Language,0,0.0,0.0
+5407,hach1239,Hachijo,0,0.0,0.0
+5416,hadr1235,Hadrami,xhd,0.0,0.0
+5471,hamb1239,Hamba NW of Nachingwea south of Mbemkuru River,0,0.0,0.0
+5505,hara1272,Harappan,0,0.0,0.0
+5543,haun1238,Hauna Trade Langauge,0,0.0,0.0
+5611,hezh1244,Hezhou,0,0.0,0.0
+5619,hier1240,Hieroglyphic Luwian,hlu,0.0,0.0
+5656,hitt1242,Hittite,hit,0.0,0.0
+5678,hmon1338,Hmong Njua (Retired),blu,0.0,0.0
+5697,hoia1235,Hoia Hoia,hhi,0.0,0.0
+5713,homs1234,Homshetsma,0,0.0,0.0
+5719,hong1241,Hong Kong-Macau Sign Language,hks,0.0,0.0
+5730,hora1238,Horace Holden's Pidgin Tobi,0,0.0,0.0
+5745,hott1234,Hottentot Dutch,0,0.0,0.0
+5748,hoxa1234,Hoxa,0,0.0,0.0
+5749,hoya1235,Hoyahoya,hhy,0.0,0.0
+5776,huas1255,"Huastec, San Luís Potosí",hva,0.0,0.0
+5777,huas1256,"Huastec, Southeastern",hsf,0.0,0.0
+5821,hung1280,Hungu,0,0.0,0.0
+5826,riog1239,Hunsrik,hrx,0.0,0.0
+5899,idab1234,Idabaez,0,0.0,0.0
+5967,ikar1243,Ikaranggal,ikr,0.0,0.0
+6015,illy1234,Illyrian,xil,0.0,0.0
+6030,imba1237,Imbabura,0,0.0,0.0
+6047,imun1234,Imunga Trade Language,0,0.0,0.0
+6095,inte1259,International Sign,ils,0.0,0.0
+6098,inui1247,Inuit Sign Language,iks,0.0,0.0
+6103,ioit1234,Ioi Trade Jargon,0,0.0,0.0
+6112,ipek1240,Ipeka-Tapuia,paj,0.0,0.0
+6127,iraq1246,Iraqi Sign Language,0,0.0,0.0
+6174,isla1277,Island Takic,0,0.0,0.0
+6226,itut1240,Itutang,itu,0.0,0.0
+6252,ixil1252,"Ixil, Chajul",ixj,0.0,0.0
+6253,ixil1253,"Ixil, Nebaj",ixi,0.0,0.0
+6272,izer1243,Izere (Retired),fiz,0.0,0.0
+6301,jaka1246,"Jakalteko, Western",jai,0.0,0.0
+6315,jama1263,Jamaican Sign Language,jls,0.0,0.0
+6349,jarg1234,Jargon Loucheux,0,0.0,0.0
+6352,jaru1257,Jaruára,jap,0.0,0.0
+6367,javi1237,Javindo,jvd,0.0,0.0
+6389,jeju1234,Jejueo,jje,0.0,0.0
+6402,jeni1237,Jenipapo-Kanindé,0,0.0,0.0
+6417,jhan1234,Jhankot Sign Language,jhs,0.0,0.0
+6433,jiar1242,Jiarong,0,0.0,0.0
+6486,joek1234,Joeka-Oajana Pidgin,0,0.0,0.0
+6488,jofo1235,Jofotek-Bromnya,jbr,0.0,0.0
+6501,jord1239,Jordanian Bengali Pidgin Arabic,0,0.0,0.0
+6519,jude1268,Judeo-Hamadani,0,0.0,0.0
+6533,julu1237,Julud,0,0.0,0.0
+6536,juma1248,Jumano,0,0.0,0.0
+6538,juml1239,Jumla Sign Language,jus,0.0,0.0
+6631,kaer1234,Kaera,jka,0.0,0.0
+6639,kafr1234,Kafr Qasem Sign Language,0,0.0,0.0
+6657,kaha1240,Kahayan,xah,0.0,0.0
+6660,kahu1242,Kahumamahon Saluan,slb,0.0,0.0
+6679,kain1277,Kainuu Saami,0,0.0,0.0
+6696,kaja1257,Kajana Sign Language,0,0.0,0.0
+6720,kala1401,Kalaamaya,lkm,0.0,0.0
+6735,kala1255,Kalanadi,wkl,0.0,0.0
+6905,kant1247,Kantarure,0,0.0,0.0
+6936,kaqc1277,"Kaqchikel, Akatenango Southwestern",ckk,0.0,0.0
+6937,kaqc1273,"Kaqchikel, Eastern",cke,0.0,0.0
+6938,kaqc1275,"Kaqchikel, Northern",ckc,0.0,0.0
+6939,kaqc1276,"Kaqchikel, Santa María de Jesús",cki,0.0,0.0
+6940,kaqc1278,"Kaqchikel, Santo Domingo Xenacoj",ckj,0.0,0.0
+6941,kaqc1272,"Kaqchikel, South Central",ckd,0.0,0.0
+6942,kaqc1274,"Kaqchikel, Southern",ckf,0.0,0.0
+6943,kaqc1279,"Kaqchikel, Western",ckw,0.0,0.0
+6944,kaqc1271,"Kaqchikel, Yepocapa Southwestern",cbm,0.0,0.0
+6945,kara1506,Kara,0,0.0,0.0
+7035,karr1236,Karruwali,0,0.0,0.0
+7064,kass1244,Kassite,0,0.0,0.0
+7085,kath1253,Kathlamet,0,0.0,0.0
+7092,kati1278,Katingan,kxg,0.0,0.0
+7128,kawa1290,Kawarrang-Ogh Undjan,0,0.0,0.0
+7129,kawa1291,Kawaway,0,0.0,0.0
+7132,kawi1241,Kawi,kaw,0.0,0.0
+7145,kaya1334,Kayan River Kenyah,knh,0.0,0.0
+7158,kayu1244,Kayu Agung,vky,0.0,0.0
+7271,kere1299,Keresan Pueblo Indian Sign Language,0,0.0,0.0
+7324,kham1281,Khamnigan Mongol,0,0.0,0.0
+7371,khia1237,Khiamniungan Naga (Retired),nky,0.0,0.0
+7395,khor1274,Khorasan Arabic,0,0.0,0.0
+7403,khot1251,Khotanese,kho,0.0,0.0
+7411,khua1244,Khuai,0,0.0,0.0
+7427,khwa1238,Khwarezmian,xco,0.0,0.0
+7437,kiau1234,Kiautschou Pidgin German,0,0.0,0.0
+7446,kich1264,"K'iche', Cunén",cun,0.0,0.0
+7447,kich1265,"K'iche', Eastern",quu,0.0,0.0
+7448,kich1267,"K'iche', Joyabaj",quj,0.0,0.0
+7450,kich1263,"K'iche', San Andrés",qxi,0.0,0.0
+7451,kich1266,"K'iche', West Central",qut,0.0,0.0
+7463,kika1240,KiKAR,0,0.0,0.0
+7488,kina1252,Kinabalian,cbw,0.0,0.0
+7620,kogu1234,Koguryo,zkg,0.0,0.0
+7630,koho1245,Kohoroxitari,kob,0.0,0.0
+7642,koke1241,Kokenop Mandobo,0,0.0,0.0
+7646,koko1273,Koko Babangk,okg,0.0,0.0
+7648,koko1272,Koko Dhawa,0,0.0,0.0
+7658,kolb1241,Kol (Bangladesh),ekl,0.0,0.0
+7716,komt1237,Komta,0,0.0,0.0
+7766,kont1246,Kontanáwa,0,0.0,0.0
+7791,kora1298,Korapun-Bromley,0,0.0,0.0
+7860,kota1280,Kotava,avk,0.0,0.0
+7937,krui1237,Krui,krq,0.0,0.0
+8009,kuku1286,Kukura,0,0.0,0.0
+8051,kumb1267,Kumbaran,wkb,0.0,0.0
+8076,kund1257,Kundal Shahi,shd,0.0,0.0
+8082,kund1253,Kunduvadi,wku,0.0,0.0
+8086,kunf1238,Kunfal,xuf,0.0,0.0
+8124,kurd1260,Kurdish Sign Language,0,0.0,0.0
+8133,kurm1245,Kurmin Dangana,0,0.0,0.0
+8182,kuuk1243,Kuuk-Yak,uky,0.0,0.0
+8185,kuva1244,Kuvale,olu,0.0,0.0
+8191,kuwa1252,Kuwaiti Sign Language,0,0.0,0.0
+8259,kwin1242,Kwinsu,kuc,0.0,0.0
+8261,kwis1235,Kwisi,0,0.0,0.0
+8264,kwom1264,Kwoma-Manambu Pidgin,0,0.0,0.0
+8316,lach1251,Lachirioag Zapotec,ztc,0.0,0.0
+8321,lada1245,Ladakhi Sign,0,0.0,0.0
+8349,lahu1255,Lahu Shi (Retired),kds,0.0,0.0
+8448,land1262,Land Dayak (Retired),dyk,0.0,0.0
+8459,lang1333,Lang'e,yne,0.0,0.0
+8473,lang1334,Languedocien,lnc,0.0,0.0
+8546,laut1236,Lautu,clt,0.0,0.0
+8559,lawi1235,Lawi,0,0.0,0.0
+8581,lebu1234,Lebu Wolof,0,0.0,0.0
+8603,lein1237,Leinong Naga,lzn,0.0,0.0
+8623,lema1244,Lematang,lmt,0.0,0.0
+8636,lemn1237,Lemnian,xle,0.0,0.0
+8664,lepo1240,Lepontic,xlp,0.0,0.0
+8704,lian1258,Lianghe Achang,0,0.0,0.0
+8707,lian1256,Lianmin Yao,0,0.0,0.0
+8725,ligh1234,Light Warlpiri,0,0.0,0.0
+8763,limo1249,Limonese Creole,qlm,0.0,0.0
+8766,limo1250,Limousin,lms,0.0,0.0
+8782,ling1267,Lingua Franca Nova,lfn,0.0,0.0
+8784,lint1237,Lintang,lnt,0.0,0.0
+8809,lite1248,Literary Chinese,lzh,0.0,0.0
+8958,long1375,Long Phuri Naga,lpn,0.0,0.0
+9006,loup1243,Loup A,xlo,0.0,0.0
+9040,lowe1441,Lower Pokomo,poj,0.0,0.0
+9042,lowe1402,Lower Riverland,0,0.0,0.0
+9047,lowe1436,Lower Southern Aranda,axl,0.0,0.0
+9157,lusi1235,Lusitanian,xls,0.0,0.0
+9172,luxi1238,Luxi Achang,0,0.0,0.0
+9177,lyci1241,Lycian,xlc,0.0,0.0
+9179,lydi1241,Lydian,xld,0.0,0.0
+9211,maca1264,Macao Pidgin Portuguese,0,0.0,0.0
+9232,mada1299,Madang (Malaysia),mqd,0.0,0.0
+9268,maga1271,Magati,0,0.0,0.0
+9272,magi1243,Magi,0,0.0,0.0
+9273,magi1242,Magiana,0,0.0,0.0
+9285,maha1308,Mahakam Kenyah,xkm,0.0,0.0
+9293,maha1305,Maharastri Prakrit,pmh,0.0,0.0
+9300,mahi1249,Mahigi,0,0.0,0.0
+9396,maky1235,Makyan Naga,umn,0.0,0.0
+9414,mala1457,Mala Malasar,ima,0.0,0.0
+9428,mala1458,Malasar,ymr,0.0,0.0
+9431,mala1534,Malaweg,0,0.0,0.0
+9439,mala1546,Malay (individual language),mly,0.0,0.0
+9463,mali1242,Malibu,0,0.0,0.0
+9473,mali1288,Malinguat,sic,0.0,0.0
+9516,mamc1234,"Mam, Central",mvc,0.0,0.0
+9521,mams1234,"Mam, Southern",mms,0.0,0.0
+9522,mamt1234,"Mam, Tajumulco",mpf,0.0,0.0
+9523,mamt1235,"Mam, Todos Santos Cuchumatán",mvj,0.0,0.0
+9606,mang1364,Mangio,0,0.0,0.0
+9616,mang1422,Mangree,0,0.0,0.0
+9700,mara1418,Marajo Sign Language,0,0.0,0.0
+9724,mara1417,Marau Wawa,0,0.0,0.0
+9731,mard1245,Mardin Sign Language,0,0.0,0.0
+9769,mari1446,Maritime Polynesian Pidgin,0,0.0,0.0
+9788,marr1256,Marriammu,xru,0.0,0.0
+9906,maur1240,Mauritian Sign Language,lsy,0.0,0.0
+9926,maya1286,"Maya, Chan Santa Cruz",yus,0.0,0.0
+9940,mayo1267,Mayo (Brazil),0,0.0,0.0
+10035,mbou1245,Mbour Sign Language,0,0.0,0.0
+10043,mbuk1244,Mbuk,0,0.0,0.0
+10073,mede1238,Medefidrin,0,0.0,0.0
+10093,mehe1245,Mehek Sign Language,0,0.0,0.0
+10094,mehe1242,Meherrin,0,0.0,0.0
+10148,ment1251,Menterap,0,0.0,0.0
+10185,mess1244,Messapic,cms,0.0,0.0
+10227,midd1344,Middle Chinese,ltc,0.0,0.0
+10229,midd1321,Middle Dutch,dum,0.0,0.0
+10232,midd1317,Middle English,enm,0.0,0.0
+10235,midd1343,Middle High German,gmh,0.0,0.0
+10236,midd1350,Middle Indo-Aryan,0,0.0,0.0
+10238,midd1318,Middle Low German,gml,0.0,0.0
+10239,midd1351,Middle Mongol,xng,0.0,0.0
+10264,mika1256,Mikaya-Bambengangale-Baluma,0,0.0,0.0
+10278,mily1238,Milyan,imy,0.0,0.0
+10280,mimi1246,Mimi,miv,0.0,0.0
+10286,mina1279,Minaean,inm,0.0,0.0
+10321,mino1236,Minoan,omn,0.0,0.0
+10403,moab1234,Moabite,obm,0.0,0.0
+10408,mobw1234,Mobwa Karen,jkm,0.0,0.0
+10428,mofu1251,Mofu-Gudur Sign Language,0,0.0,0.0
+10450,moin1242,Moinba,mob,0.0,0.0
+10465,mokp1238,Mokpa,0,0.0,0.0
+10475,mole1239,Molet,0,0.0,0.0
+10536,monq1236,Monqui,0,0.0,0.0
+10615,mouw1234,Mouwase,jmw,0.0,0.0
+10632,mpam1239,Mpama,0,0.0,0.0
+10677,mudu1239,Muduga,udg,0.0,0.0
+10679,muel1234,Muellamues,0,0.0,0.0
+10693,muji1236,Muji Yi,ymj,0.0,0.0
+10696,mukl1234,Muklom,0,0.0,0.0
+10697,muko1237,Muko-Muko,vmo,0.0,0.0
+10727,mund1339,Mundari (Retired),muw,0.0,0.0
+10768,murp1234,Mur Pano,tkv,0.0,0.0
+10814,muzo1235,Muzo,0,0.0,0.0
+10841,mwes1234,Mwesa,0,0.0,0.0
+10848,myce1241,Mycenaean Greek,gmy,0.0,0.0
+10949,namm1235,Nam,0,0.0,0.0
+10984,nana1261,Nanabin Sign Language,0,0.0,0.0
+11021,naol1234,Naolan,0,0.0,0.0
+11046,nasa1239,Nasal,nsy,0.0,0.0
+11066,natu1248,Natú,0,0.0,0.0
+11215,neoa1234,Neo (Artificial Language),neu,0.0,0.0
+11219,nepa1254,Nepali,npi,0.0,0.0
+11232,neut1237,Neutral-Atiouandaronk,0,0.0,0.0
+11237,newc1245,New Caledonian Pidgin French,0,0.0,0.0
+11239,news1234,New South Wales Pidgin,0,0.0,0.0
+11245,ngaa1241,Ngaalam,0,0.0,0.0
+11252,ngad1257,Ngadjuri,0,0.0,0.0
+11260,ngal1301,Ngala of Lake Chad,0,0.0,0.0
+11293,ngar1288,Ngardi,rxd,0.0,0.0
+11299,ngar1286,Ngarla on the Ashburton river south of the Hamersley range,nlr,0.0,0.0
+11364,ngoc1235,Ngochang,0,0.0,0.0
+11398,ngub1239,Ngubi,0,0.0,0.0
+11404,ngum1253,Ngumbarl,0,0.0,0.0
+11555,nkoa1234,N'Ko,nqo,0.0,0.0
+11629,nori1242,Nori,0,0.0,0.0
+11630,nori1240,Noric,nrc,0.0,0.0
+11667,nort3247,Northeast Bainounk,0,0.0,0.0
+11706,nort3260,Northern Atlantika Vere,0,0.0,0.0
+11793,nort3251,Northern Nambikuára,mbg,0.0,0.0
+11843,nort3262,Northern Tidung,ntd,0.0,0.0
+11863,nort3249,Northern Zhuang,ccx,0.0,0.0
+11884,nort3250,North Korowai,krg,0.0,0.0
+11906,nort1401,North Picene,nrp,0.0,0.0
+12390,numi1241,Numidian,nxm,0.0,0.0
+12408,naxi1247,Nuoxi Yao,0,0.0,0.0
+12421,nuuc1236,Nuu-chah-nulth,nuk,0.0,0.0
+12434,nyad1241,Nyadu,nxj,0.0,0.0
+12494,nyen1255,Nyeng,nfg,0.0,0.0
+12504,nyih1239,Nyiha (Malawi),nyr,0.0,0.0
+12506,nyik1246,Nyika (Malawi and Zambia),nkv,0.0,0.0
+12507,nyik1247,Nyika (Tanzania),nkt,0.0,0.0
+12520,nyok1243,Nyokon,nvo,0.0,0.0
+12563,occi1241,Occidental,occ,0.0,0.0
+12566,ochi1235,O'chi'chi',xoc,0.0,0.0
+12590,ogan1237,Ogan,ogn,0.0,0.0
+12671,okwa1236,Okwa,0,0.0,0.0
+12672,okwa1235,Okwanuchu,0,0.0,0.0
+12676,olda1245,Old Aramaic (up to 700 BCE),oar,0.0,0.0
+12677,oldb1247,Old Bangkok Sign Language,0,0.0,0.0
+12678,oldb1235,Old Burmese,obr,0.0,0.0
+12679,oldc1248,Old Cayman Sign Language,0,0.0,0.0
+12680,oldc1244,Old Chinese,och,0.0,0.0
+12682,oldd1237,Old Dutch,odt,0.0,0.0
+12683,olde1238,Old English (ca. 450-1100),ang,0.0,0.0
+12684,olde1239,Older Runic,0,0.0,0.0
+12686,oldf1239,Old French (842-ca. 1400),fro,0.0,0.0
+12687,oldf1241,Old Frisian,ofs,0.0,0.0
+12688,oldg1234,Old Georgian,oge,0.0,0.0
+12689,oldh1241,Old High German (ca. 750-1050),goh,0.0,0.0
+12690,oldi1244,Old Indic,qmx,0.0,0.0
+12691,oldi1245,Old Irish (to 900),sga,0.0,0.0
+12692,oldj1239,Old Japanese,ojp,0.0,0.0
+12693,oldk1250,Old Kannada,qkn,0.0,0.0
+12695,oldk1249,Old Khmer,qok,0.0,0.0
+12696,oldl1238,Old Latin,qbb,0.0,0.0
+12697,oldm1243,Old Malay,0,0.0,0.0
+12698,oldm1244,Old Marathi,omr,0.0,0.0
+12699,oldm1242,Old Mon,omx,0.0,0.0
+12700,oldn1244,Old Norse,non,0.0,0.0
+12702,oldo1234,Old Ossetic,oos,0.0,0.0
+12703,oldp1255,Old Persian,ope,0.0,0.0
+12704,oldp1254,Old Persian (ca. 600-400 B.C.),peo,0.0,0.0
+12705,oldp1253,Old Provençal,pro,0.0,0.0
+12708,oldr1238,Old Russian,orv,0.0,0.0
+12709,sabe1248,Old Sabellic,qhr,0.0,0.0
+12710,olds1250,Old Saxon,osx,0.0,0.0
+12712,olds1249,Old Spanish,osp,0.0,0.0
+12713,oldt1248,Old Tamil,oty,0.0,0.0
+12714,oldt1249,Old Telugu,0,0.0,0.0
+12715,oldt1247,Old Turkish,otk,0.0,0.0
+12716,oldu1238,Old Uighur,oui,0.0,0.0
+12717,oldw1238,Old Wanji,0,0.0,0.0
+12718,oldw1239,Old Welsh,owl,0.0,0.0
+12724,olko1234,Olkol,olk,0.0,0.0
+12759,omom1235,Omomil,0,0.0,0.0
+12788,ooku1235,Ooku,0,0.0,0.0
+12799,opon1234,Opón-Carare,0,0.0,0.0
+12821,orig1234,Original Costa Rican Sign Language,0,0.0,0.0
+12824,oriy1255,Oriya,ory,0.0,0.0
+12826,orko1234,Orkon-Fanbak,fnb,0.0,0.0
+12838,orok1270,Orokaiva (Retired),ork,0.0,0.0
+12842,orop1234,Oropom,0,0.0,0.0
+12863,osca1245,Oscan,osc,0.0,0.0
+12941,paca1247,Pacaguara-Mercier,0,0.0,0.0
+12943,paca1243,Pacahuaras-Castillo,0,0.0,0.0
+12962,paek1234,Paekche,pkc,0.0,0.0
+12977,pahl1241,Pahlavi,pal,0.0,0.0
+12986,pail1244,Pai-lang,0,0.0,0.0
+12991,pais1238,Paisaci Prakrit,qpp,0.0,0.0
+13013,pala1331,Palaic,plq,0.0,0.0
+13028,pale1264,Palembang,plm,0.0,0.0
+13029,pale1262,Palen,pnl,0.0,0.0
+13031,pale1261,Palestinian Jewish Aramaic,jpa,0.0,0.0
+13033,pale1254,Palewyami Yokuts,0,0.0,0.0
+13043,palm1241,Palmela,0,0.0,0.0
+13063,pamo1255,Pamona (Retired),bcx,0.0,0.0
+13067,pamu1240,Pamunkey,0,0.0,0.0
+13070,pana1310,Pa Na,0,0.0,0.0
+13075,pana1308,Panamanian Sign Language,lsp,0.0,0.0
+13083,pana1311,Panare Trade Spanish,0,0.0,0.0
+13092,panc1242,Panche,0,0.0,0.0
+13135,panz1235,Panzaleo,0,0.0,0.0
+13153,papu1255,Papua New Guinean Sign Language,pgz,0.0,0.0
+13156,papu1254,Papuan Pidgin English,0,0.0,0.0
+13163,para1318,Paraguayan Sign Language,pys,0.0,0.0
+13195,part1239,Parthian,xpr,0.0,0.0
+13215,past1243,Pasto,0,0.0,0.0
+13216,pata1255,Patagon,0,0.0,0.0
+13225,path1235,Pathiya,pty,0.0,0.0
+13227,patl1234,Patla-Chicontla Totonac,tot,0.0,0.0
+13237,patw1250,Patwin,pwi,0.0,0.0
+13256,paya1237,Payaya,0,0.0,0.0
+13264,pech1242,Pecheneg,xpc,0.0,0.0
+13301,pene1237,Penesak,pen,0.0,0.0
+13366,phoe1239,Phoenician,phn,0.0,0.0
+13375,phry1239,Phrygian,xpg,0.0,0.0
+13399,pict1238,Pictish,xpi,0.0,0.0
+13402,pidg1256,Pidgin Carib,0,0.0,0.0
+13403,pidg1254,Pidgin Chinook Jargon,0,0.0,0.0
+13405,pidg1237,Pidgin Fijian,0,0.0,0.0
+13406,pidg1248,Pidgin Gulf Arabic,0,0.0,0.0
+13407,pidg1249,Pidgin Hawaiian,0,0.0,0.0
+13408,pidg1251,Pidgin Hindustani,0,0.0,0.0
+13409,pidg1255,Pidgin Kaurna,0,0.0,0.0
+13410,pidg1252,Pidgin Madam,0,0.0,0.0
+13411,pidg1247,Pidgin Ngarluma,0,0.0,0.0
+13412,pidg1257,Pidgin Tukang Besi,0,0.0,0.0
+13432,pime1237,Pimenteira,0,0.0,0.0
+13470,pisi1234,Pisidian,xps,0.0,0.0
+13473,pita1243,Pitaguary,0,0.0,0.0
+13508,poch1244,Pochutec,xpo,0.0,0.0
+13542,poll1238,Pollapese,0,0.0,0.0
+13561,pont1258,Ponthai,0,0.0,0.0
+13567,poqo1257,"Poqomam, Eastern",poa,0.0,0.0
+13568,poqo1255,"Poqomam, Southern",pou,0.0,0.0
+13570,poqo1256,"Poqomchi', Western",pob,0.0,0.0
+13603,poya1239,Poya,0,0.0,0.0
+13627,prov1247,Provençal (Retired),prv,0.0,0.0
+13635,pubi1237,Pubian,pun,0.0,0.0
+13655,pula1268,Pula Yi,ypl,0.0,0.0
+13701,puru1267,Puruguay,0,0.0,0.0
+13713,puwa1234,Puwa Yi,ypw,0.0,0.0
+13739,qata1238,Qatabanian,xqt,0.0,0.0
+13778,quee1234,Queensland Kanaka English,0,0.0,0.0
+13779,quep1238,Quepos,0,0.0,0.0
+13780,quer1237,Querandi,0,0.0,0.0
+13787,quig1235,Quignam,0,0.0,0.0
+13790,quil1251,Quillacinga,0,0.0,0.0
+13792,quin1252,Quinigua,0,0.0,0.0
+13798,quji1234,Qujiang Hakka-Shibei Shaoguan Tuhua,0,0.0,0.0
+13810,raet1238,Raetic,xrr,0.0,0.0
+13828,rajb1244,Rajbanshi (Retired),rjb,0.0,0.0
+13860,rana1249,Ranau (Retired),rae,0.0,0.0
+13908,rawa1268,Rawas (Retired),rws,0.0,0.0
+13944,reng1255,Rengmitca,0,0.0,0.0
+14025,roma1333,Romanian Pidgin Arabic,0,0.0,0.0
+14051,roqu1234,Roquetas Pidgin Spanish,0,0.0,0.0
+14111,russ1267,Russenorsk,0,0.0,0.0
+14140,saba1279,Sabaic,xsa,0.0,0.0
+14158,saca1239,Sacata,0,0.0,0.0
+14206,saka1300,Sakan,xsk,0.0,0.0
+14274,samb1325,Sambalpuri,spv,0.0,0.0
+14294,samo1307,Samoan Plantation Pidgin,0,0.0,0.0
+14322,sana1298,Sanapaná,spn,0.0,0.0
+14349,sanf1266,San Francisco Solano,0,0.0,0.0
+14429,sans1265,Sansimoniano,0,0.0,0.0
+14530,sara1350,Sarawak Bisaya,bsd,0.0,0.0
+14539,sarr1247,Sar (Indonesia),0,0.0,0.0
+14574,saur1252,Sauraseni Prakrit,psu,0.0,0.0
+14623,sebs1234,Seb Seliyer,0,0.0,0.0
+14671,sela1262,Selako,skl,0.0,0.0
+14693,seme1248,Semendo,sdd,0.0,0.0
+14747,sera1272,Serawai,srj,0.0,0.0
+14754,sere1258,Serengeti-Dorobo,0,0.0,0.0
+14811,shak1238,Shakara,nfk,0.0,0.0
+14826,shan1278,Shang,0,0.0,0.0
+14836,shan1291,Shanjo,0,0.0,0.0
+14910,shiw1234,Shiwa,0,0.0,0.0
+14972,sibe1250,Siberian Tatar,sty,0.0,0.0
+14983,sica1234,Sicana,sxc,0.0,0.0
+14989,sicu1234,Sicula,scx,0.0,0.0
+14992,side1240,Sidetic,xsd,0.0,0.0
+15031,sile1253,Silesian,szl,0.0,0.0
+15035,sill1240,Silla,0,0.0,0.0
+15039,silt1241,Silt'e (Retired),xst,0.0,0.0
+15063,sind1280,Sindang Kelingi,sdi,0.0,0.0
+15152,siza1240,Sizaki,szk,0.0,0.0
+15188,sogd1245,Sogdian,sog,0.0,0.0
+15207,solo1261,Solombala English,0,0.0,0.0
+15289,soul1243,Souletin Basque,bsz,0.0,0.0
+15294,sout2466,South-Arabian-Unknown-k,0,0.0,0.0
+15296,sout3227,South Australian Pidgin English,0,0.0,0.0
+15332,sout3223,Southeastern Puebla Nahuatl,nhs,0.0,0.0
+15369,sout2920,Southern Betsimisaraka Malagasy,bzc,0.0,0.0
+15420,sout3226,Southern Khanty,0,0.0,0.0
+15437,sout3225,Southern Marakwet,tle,0.0,0.0
+15467,sout3224,Southern Pesisir,pec,0.0,0.0
+15498,sout3241,Southern Tidung,itd,0.0,0.0
+15522,sout3221,Southern Zhuang,ccy,0.0,0.0
+15547,sout3126,South Lucanian,0,0.0,0.0
+15608,sout3222,Southwest Gbaya (Retired),mdo,0.0,0.0
+15680,suba1254,Suba (Retired),suh,0.0,0.0
+15694,tarp1241,Sufrai,suf,0.0,0.0
+15744,sumt1234,Sumtu Chin,csv,0.0,0.0
+15753,sung1271,Sungkai (Indonesia),suu,0.0,0.0
+15780,suri1273,Surigaonon,sgd,0.0,0.0
+15846,taba1269,Tabancal,0,0.0,0.0
+15865,taca1258,Tacanec,mtz,0.0,0.0
+15867,tach1242,Tachoni,lts,0.0,0.0
+15869,tacu1234,Tacunyape,0,0.0,0.0
+15882,taen1234,Taensa,0,0.0,0.0
+15892,taga1279,Tagalaka,tgz,0.0,0.0
+15930,tail1248,Tai Laing,tjl,0.0,0.0
+15936,taim1252,Taimyr Pidgin Russian,0,0.0,0.0
+16018,talo1253,Talossan,tzl,0.0,0.0
+16077,tand1258,Tandaganon,tgn,0.0,0.0
+16119,tanj1248,Tanjong,tnj,0.0,0.0
+16126,tanp1235,Tanpachoa,0,0.0,0.0
+16137,tapa1260,Tapachultec,qcs,0.0,0.0
+16139,tapa1261,Tapajó,0,0.0,0.0
+16176,tart1237,Tartessian,txr,0.0,0.0
+16182,tasm1247,Tasmanian,xtz,0.0,0.0
+16208,taut1234,Taut Batu,0,0.0,0.0
+16232,tawe1235,Tawendê,0,0.0,0.0
+16266,tebu1240,Tebul Sign Language,tsy,0.0,0.0
+16320,temb1278,Tembey,0,0.0,0.0
+16423,thac1235,Thachanadan,thn,0.0,0.0
+16452,thee1239,Theen,0,0.0,0.0
+16455,thii1234,Thiin,iin,0.0,0.0
+16464,thra1250,Thracian,txh,0.0,0.0
+16488,tibe1277,Tibetan Sign Language,0,0.0,0.0
+16523,tiju1234,Tijuana Sign Language,0,0.0,0.0
+16526,tikh1243,Tikhak,0,0.0,0.0
+16616,tlal1234,Tlalitzlipa Nahuatl,nhj,0.0,0.0
+16634,toal1234,Toala',tlz,0.0,0.0
+16683,tokh1242,Tokharian A,xto,0.0,0.0
+16684,tokh1243,Tokharian B,txb,0.0,0.0
+16694,tola1236,Tolai-Nakanai-Trade,0,0.0,0.0
+16714,tomb1246,Tombidi,0,0.0,0.0
+16729,tomy1239,Tomyang,tmx,0.0,0.0
+16747,tong1329,Tongva,0,0.0,0.0
+16811,hiri1235,Trading Eleman,0,0.0,0.0
+16812,hiri1236,Trading Koriki,0,0.0,0.0
+16815,tran1282,Transalpine Gaulish,xtg,0.0,0.0
+16840,trin1277,Trinidad and Tobago Sign Language,lst,0.0,0.0
+16907,tual1242,Tualatin-Yamhill,nrt,0.0,0.0
+16956,tums1237,Tumshuqese,xtq,0.0,0.0
+16968,tune1261,Tunen,tvu,0.0,0.0
+16993,tunu1234,Tunumiisiut,0,0.0,0.0
+17021,turk1244,Turku,0,0.0,0.0
+17030,tush1243,Tushan Names,0,0.0,0.0
+17033,tuto1242,Tutong 1,ttx,0.0,0.0
+17058,tyan1235,Tyanngayt-Mamngayt-Ntrwangayt-Ntrangit,0,0.0,0.0
+17067,tzel1255,"Tzeltal, Bachajón",tzb,0.0,0.0
+17069,tzot1262,"Tzotzil, Chamula",tzc,0.0,0.0
+17070,tzot1263,"Tzotzil, Chenalhó",tze,0.0,0.0
+17071,tzot1261,"Tzotzil, Huixtán",tzu,0.0,0.0
+17072,tzot1260,"Tzotzil, San Andrés Larrainzar",tzs,0.0,0.0
+17073,tzot1264,"Tzotzil, Zinacantán",tzz,0.0,0.0
+17075,tzut1249,"Tz'utujil, Western",tzt,0.0,0.0
+17117,ugar1238,Ugaritic,uga,0.0,0.0
+17202,umbr1253,Umbrian,xum,0.0,0.0
+17238,ungg1243,Unggumi,xgu,0.0,0.0
+17245,unub1234,Unubahe,unu,0.0,0.0
+17258,uppe1459,Upper Baram Kenyah,ubm,0.0,0.0
+17284,uppe1415,Upper Riverland,0,0.0,0.0
+17293,uppe1436,Upper Umpqua,0,0.0,0.0
+17338,uruc1243,Urucucús,0,0.0,0.0
+17388,uwin1234,Uwinymil,0,0.0,0.0
+17396,vaal1235,Vaal-Orange,gku,0.0,0.0
+17399,fare1244,Vach-Vasjugan,0,0.0,0.0
+17424,vale1251,Valencian Sign Language,vsv,0.0,0.0
+17470,vazi1234,Vazimba,0,0.0,0.0
+17483,vene1257,Venetic,xve,0.0,0.0
+17491,vere1252,Vere Kaadam,0,0.0,0.0
+17514,vili1239,Vili of Ngounie,0,0.0,0.0
+17531,vito1235,Vitou,vto,0.0,0.0
+17553,sout2679,Võro,vro,0.0,0.0
+17608,waga1262,Wagawaga (Retired),wgw,0.0,0.0
+17650,waka1282,Wakabunga,wwb,0.0,0.0
+17689,walo1239,Walo Kumbe Dogon,dwl,0.0,0.0
+17703,wamp1250,Wampano,qyp,0.0,0.0
+17781,ware1252,Ware,wre,0.0,0.0
+17783,ware1255,Warekena Velha,0,0.0,0.0
+17839,wavu1234,Wavu-II,0,0.0,0.0
+17851,waya1264,Wayanad Chetti,ctt,0.0,0.0
+17961,west2778,Western Durango Nahuatl,azn,0.0,0.0
+17971,west2863,Western Frisian (Retired),fri,0.0,0.0
+17987,west2777,Western Jicaque,0,0.0,0.0
+18052,west2873,Western Puroik,0,0.0,0.0
+18093,west2864,West Greenlandic Eskimo Pidgin,0,0.0,0.0
+18197,wira1265,Wirangu,wgu,0.0,0.0
+18212,wocc1242,Woccon,xwc,0.0,0.0
+18233,womo1238,Womo-Sumararu,wmx,0.0,0.0
+18247,worr1237,Worrorra,wro,0.0,0.0
+18281,wulw1234,Wulwulam,0,0.0,0.0
+18285,wume1236,Wumeng Yi,ywm,0.0,0.0
+18301,wuth1237,Wuthathi,0,0.0,0.0
+18312,ww2p1234,WW2 Pidgin German,0,0.0,0.0
+18314,wymy1235,Wymysorys,wym,0.0,0.0
+18374,xoco1235,Xoco,0,0.0,0.0
+18411,yadh1237,Yadhaykenu,0,0.0,0.0
+18468,yama1265,Yamasee,0,0.0,0.0
+18486,yana1258,Yanacona,0,0.0,0.0
+18498,yang1305,Yangathimri,0,0.0,0.0
+18596,yaoa1239,Yebarana,0,0.0,0.0
+18609,yele1238,Yelelihre,0,0.0,0.0
+18616,yeme1237,Yemeni Sign Language,0,0.0,0.0
+18649,yila1234,Yilan Creole Japanese,0,0.0,0.0
+18654,yima1235,Yimas-Alamblak-Pidgin,0,0.0,0.0
+18655,yima1244,Yimas-Arafundi-Pidgin,0,0.0,0.0
+18656,yima1246,Yimas-Iatmul Pidgin,0,0.0,0.0
+18657,yima1245,Yimas-Karawari Pidgin,0,0.0,0.0
+18668,ying1248,Yinglish,yib,0.0,0.0
+18671,yinh1234,Yinhawangka,ywg,0.0,0.0
+18692,yogy1234,Yogyakarta Sign Langauge,0,0.0,0.0
+18698,yoko1234,Yokohama Pidgin,0,0.0,0.0
+18701,yola1237,Yola,yol,0.0,0.0
+18702,yoln1234,Yolngu Sign Language,ygs,0.0,0.0
+18713,yonc1234,Yoncalla,sxk,0.0,0.0
+18742,yoru1246,Yoruba Sign Language,0,0.0,0.0
+18751,yout1234,Yout Wam,ytw,0.0,0.0
+18760,yuan1242,Yuanjiang-Mojiang Yi,yym,0.0,0.0
+18781,yugu1250,Yugul,ygu,0.0,0.0
+18784,yuka1240,Yukaghir Omok,omk,0.0,0.0
+18788,yulp1239,Yulparija,0,0.0,0.0
+18799,yuru1264,Yuru,ljx,0.0,0.0
+18872,zbua1234,Zbu,0,0.0,0.0
